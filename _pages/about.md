@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/). My research interest includes software engineering, OSS(open source software), and ...
 
-I'm very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/).
+I'm very fortunate to be advised by [Prof. XXX]() of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/).
 
 [Email](teddyxym@outlook.com)
 
