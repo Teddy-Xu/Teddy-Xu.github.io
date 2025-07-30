@@ -21,7 +21,7 @@ repository               : "Teddy-Xu/Teddy-Xu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yiming Xu (徐一茗)"
   pronouns         : "he/him"
   bio              : "A Ph.D. student majoring in Computer Science at Peking University"
