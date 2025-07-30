@@ -26,7 +26,7 @@ My research interests are in software engineering, open source software, and the
   
 
 
-🎖 Honors and Awards
+🥇 Honors and Awards
 ======
 - 2025, Excellent Graduate of Beijing
 - 2025, Excellent Graduate, Peking University
@@ -40,6 +40,6 @@ My research interests are in software engineering, open source software, and the
 - 2022, Shenzhen Stock Exchange Scholarship, Peking University
 
 
-Hobbies
+⛵ Hobbies
 ------
 - Sailing……

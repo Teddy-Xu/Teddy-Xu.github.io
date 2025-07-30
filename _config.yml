@@ -11,7 +11,7 @@ locale                   : "Beijing, China"
 title                    : "Yiming Xu (徐一茗) / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yiming Xu (徐一茗)"
-description              : &description "An undergraduate majoring in Computer Science at Peking University"
+description              : &description "A Ph.D. student majoring in Computer Science at Peking University"
 url                      : https://Teddy-Xu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Teddy-Xu/Teddy-Xu.github.io"
@@ -23,18 +23,18 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiming Xu (徐一茗)"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "An undergraduate majoring in Computer Science at Peking University"
+  pronouns         : "he/him"
+  bio              : "A Ph.D. student majoring in Computer Science at Peking University"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : https://Teddy-Xu.github.io
-  email            : "teddyxym@outlook.com" 
+  email            : "xym@pku.org.cn" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-7620-1381"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
